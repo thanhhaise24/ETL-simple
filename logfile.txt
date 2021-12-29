@@ -1,0 +1,7 @@
+19:15:48-Dec-29-2021, ETL Job Started
+19:15:48-Dec-29-2021, Extract phase Started
+19:15:48-Dec-29-2021, Extract phase Ended
+19:15:48-Dec-29-2021, Transform phase Started
+19:15:48-Dec-29-2021, Transform phase Ended
+19:15:48-Dec-29-2021, Load phase Started
+19:15:48-Dec-29-2021, Load phase Ended
