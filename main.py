@@ -3,7 +3,6 @@ import pandas as pd
 import xml.etree.ElementTree as ET
 from datetime import datetime
 
-tmp_file = "dealership_temp.tmp"
 log_file = "dealership_logfile.txt"
 target_file = "dealership_transformed_data.csv"
 
